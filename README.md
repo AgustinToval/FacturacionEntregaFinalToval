@@ -3,7 +3,7 @@
 Este proyecto de facturación está diseñado para ayudar a las empresas a gestionar sus procesos de facturación de manera eficiente y automatizada. Proporciona una interfaz fácil de usar que permite a los usuarios generar facturas, agregar productos, realizar seguimiento de pagos y más.
 
 <div align="center">
-  <img src="https://github.com/AgustinToval/FacturacionEntregaProyectoFinal-Toval/assets/101344852/0ec03003-1f97-4b71-b940-1850f3d91f0c.png" alt="Proyecto de Facturación" width="100"/>
+  <img src="https://github.com/AgustinToval/FacturacionEntregaFinalToval/assets/101344852/1d87d4ac-6e2d-4ce4-8395-acd5f3af4035.png" alt="Proyecto de Facturación" width="100"/>
 </div>
 
 
